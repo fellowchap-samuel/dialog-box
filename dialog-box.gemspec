@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'Dialog-box'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2021-01-23'
   s.summary     = "Opens a Windows FileOpenDialogBox and returns the filepath."
   s.description = "Opens a Windows FileOpenDialogBox and returns the filepath. Only works with Win32 and Win64 obviously. Check out the Homepage for usage instructions."
