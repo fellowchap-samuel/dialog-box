@@ -5,6 +5,10 @@
 
 <br>
 
+
+
+<br>
+
 # Usage
 
 ```ruby
@@ -16,7 +20,7 @@ str = DIALOG_BOX.get_file_dialog
 
 puts str.to_s
 # print out the selected file's path
-# it can be very usefull in some windows project
+# it can be very helpful in some windows project
 ```
 
 <br>
