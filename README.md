@@ -11,6 +11,13 @@
 
 # Usage
 
+1. First Install the gem:
+
+    `gem install Dialog-box`
+
+2. Follow the example code:
+
+
 ```ruby
 
 # Works only in Windows x64, x86
