@@ -1,7 +1,7 @@
 # Dialog-box 
 
 - A practical gem that opens a simple filedialog box and returns the selected file's path.  
-- It uses `Fiddle::Importer` to get the native dialog_box in windows
+- It uses `Fiddle::Importer` to get the native dialog_box in windows.
 
 <br>
 
